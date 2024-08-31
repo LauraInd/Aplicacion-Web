@@ -37,11 +37,11 @@
             <%
                 if (role.equals("anonymous")) {
             %>
-            <a href="login.jsp" title="Iniciar sesión"><img src="icons/user.png" height="50" width="50"/></a>
+            <a title="Iniciar sesión"></a>
             <%
                 } else {
             %>
-            <a href="logout" title="Cerrar sesión"><img src="icons/logout.jpg" height="50" width="50"/></a>
+            <a href="logout" title="Cerrar sesión"></a>
             <%
                 }
             %>
