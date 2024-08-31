@@ -23,6 +23,9 @@
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="a7cbccb8-5606-4824-9c55-c0560455c85b" />
   </component>
+  <component name="DBNavigator.Project.FileConnectionMappingManager">
+    <mapping file-url="file://$USER_HOME$/Downloads/ParqueNatural-4/src/main/java/com/svalero/parquenatural/dao" connection-id="virtual-oracle-connection" session-id="" current-schema="" />
+  </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
     <filters />

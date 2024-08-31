@@ -8,5 +8,8 @@ public class Ingredient {
 
     private float price;
 
-    private String picture;
+
+    public Ingredient(int id, String name, float price) {
+    }
 }
+
